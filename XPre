@@ -1,0 +1,32 @@
+am start -n com.garena.game.kgvn/com.garena.game.kgtw.SGameActivity
+
+
+
+sleep 100
+echo "Tuan"
+#cleaner
+cleaner()
+{
+
+
+find /data/data/com.garena.game.kgvn -mindepth 1 ! -path "/data/data/com.garena.game.kgvn/files" ! -path "/data/data/com.garena.game.kgvn/files/*" -exec rm -rf {} +
+find /storage/emulated/0/Android/data/com.garena.game.kgvn -mindepth 1 ! -path "/storage/emulated/0/Android/data/com.garena.game.kgvn/files" ! -path "/storage/emulated/0/Android/data/com.garena.game.kgvn/files/*" -exec rm -rf {} +
+echo "Ok"
+
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/RecentRecords
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/centauri
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/records
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/Replay
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/Perf
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/PVideoPlayerCache
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/log
+rm -rf /storage/emulated/0/Android/data/com.garena.game.kgvn/files/SGameLog
+
+echo "Ok"
+
+sleep 10
+am force-stop bin.mt.plus.canary
+cleaner
+}
+cleaner
+#cleaner
