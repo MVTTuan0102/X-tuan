@@ -17,12 +17,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 
 
-127.0.0.1 100067.msdk.garena.com
+
 127.0.0.1 100067.msdk.gopapi.io
 
-127.0.0.1 firebaselogging.googleapis.com
-127.0.0.1 *.arpa
-127.0.0.1 *.io
-127.0.0.1 *.in
-127.0.0.1 *.org
+
 
