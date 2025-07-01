@@ -22,12 +22,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 cloud.vmp.onezapp.com
 127.0.0.1 cloudctrl.gcloudsdk.com
 
-127.0.0.1 aovcloud.garena.com
-127.0.0.1 connectivitycheck.gstatic.com
+
 127.0.0.1 dl.kgvn.garenanow.com
-127.0.0.1 dl.ops.kgvn.garenanow.com
-127.0.0.1 gili9j-inapps.appsflyersdk.com
-127.0.0.1 gili9j-launches.appsflyersdk.com
-127.0.0.1 graph.facebook.com
+
 127.0.0.1 intlsdk.iegg.garena.com
-127.0.0.1 platform-lookaside.fbsbx.com
+
