@@ -18,12 +18,36 @@ ff02::3 ip6-allhosts
 
 
 
-127.0.0.1 dl.dir.freefiremobile.com
-127.0.0.1 csoversea.stronghold.freefiremobile.com
-127.0.0.1 dl.cdn.freefiremobile.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 gin.freefiremobile.com
-127.0.0.1 play.googleapis.com
-127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 dl.castle.freefiremobile.com
+127.0.0.1 csoversea.stronghold.freefiremobile.com
+127.0.0.1 ff.sdk.grtc.garenanow.com
+127.0.0.1 id.network.freefiremobile.com
+127.0.0.1 dl.tata.freefiremobile.com
+127.0.0.1 dl.dir.freefiremobile.com
+127.0.0.1 indevent.ggblueshark.com
+127.0.0.1 gin.freefireind.in
+127.0.0.1 indevent.ggblueshark.com
+127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 firebaseinstallations.googleapis.com
+127.0.0.1 android.googleapis.com
+127.0.0.1 freefiremobile-a.akamaihd.net
+127.0.0.1 clientauthconfig.googleapis.com
+127.0.0.1 ff-sdk-grtc.freefireind.in
+127.0.0.1 ind.network.freefiremobile.com
+127.0.0.1 dl-ind-production.freefiremobile.com
+127.0.0.1 api.facebook.com
+127.0.0.1 crashlyticsreports-pa.googleapis.com
+127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 launches.appsflyer.com
+127.0.0.1 ff-dr-grtc.freefireind.in
+127.0.0.1 ff-sdk-grtc.freefireind.in
+127.0.0.1 103.16.33.136
+127.0.0.1 103.16.33.160
+127.0.0.1 ff.dr.grtc.garenanow.com
+127.0.0.1 inapps.appsflyer.com
 
 
 
